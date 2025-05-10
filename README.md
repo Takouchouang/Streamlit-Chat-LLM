@@ -6,9 +6,9 @@
 
 - 💬 Interface de chat intuitive pour interagir avec des IA
 - 🔄 Historique des conversations conservé durant la session
-- 🌐 Modèles open-source via Hugging Face (utilisation gratuite)
-- 💻 Support de modèles locaux via Ollama (exécution locale)
-- 🧠 Option avancée : intégration directe de LLM dans l'application
+- 🌐 Modèles **open-source** via Hugging Face (utilisation gratuite)
+- 💻 Support de modèles locaux via **Ollama** (exécution locale)
+- 🧠 Option avancée : intégration directe de **LLM** dans l'application
 - ⚙️ Réglage des paramètres de génération (température, longueur, etc.)
 
 ---
