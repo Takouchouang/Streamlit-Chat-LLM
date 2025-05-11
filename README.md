@@ -1,6 +1,6 @@
 # 🤖 Streamlit-Chat-LLM
 
-**Streamlit-Chat-LLM** est une application interactive développée avec [Streamlit](https://streamlit.io), permettant de dialoguer avec des modèles de langage (LLM) gratuits et open-source, sans frais d’API.
+**Streamlit-Chat-LLM** est une application interactive développée avec [Streamlit](https://streamlit.io), permettant de dialoguer avec des modèles de langage (**LLM**) gratuits et open-source, sans frais d’API.
 
 ## ✨ Fonctionnalités
 
